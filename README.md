@@ -1,20 +1,21 @@
-# 🧪 Meu primeiro projeto com Cypress
+# 🧪 Projeto de Testes Automatizados com Cypress
 
-Este projeto foi criado para aprender como funciona o Cypress, uma ferramenta de testes automatizados para aplicações web.
+Este repositório é dedicado a testes automatizados usando Cypress para diferentes aplicações web e APIs.
 
-## 🧷 O que tem aqui?
+Aqui você encontrará uma coleção de testes organizados para facilitar a manutenção e a execução de casos variados, sempre em um único lugar.
 
-- `cypress/e2e/primeiro-teste.cy.js`: Acessa o Google
-- `cypress/e2e/formulario.cy.js`: Preenche um formulário de exemplo
-
-## 🚀 Como rodar
+## 🚀 Como rodar os testes
 
 1. Instale as dependências:
-```npm install```
+```
+npm install
+```
 
 
 2. Abra o Cypress:
-```npx cypress open```
+```
+npx cypress open
+```
 
 
 3. Escolha o teste e clique para rodar ✨
